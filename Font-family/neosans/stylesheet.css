@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Neo Sans';
+    src: url('NeoSans-Light.woff2') format('woff2'),
+        url('NeoSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans TR';
+    src: url('NeoSansTR.woff2') format('woff2'),
+        url('NeoSansTR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans TR';
+    src: url('NeoSansBlackTR.woff2') format('woff2'),
+        url('NeoSansBlackTR.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans  TR';
+    src: url('NeoSansMediumItalicTR.woff2') format('woff2'),
+        url('NeoSansMediumItalicTR.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans  TR';
+    src: url('NeoSansUltraTR.woff2') format('woff2'),
+        url('NeoSansUltraTR.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans TR';
+    src: url('NeoSansMediumTR.woff2') format('woff2'),
+        url('NeoSansMediumTR.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans TR';
+    src: url('NeoSansLightItalicTR.woff2') format('woff2'),
+        url('NeoSansLightItalicTR.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans  TR';
+    src: url('NeoSansItalicTR.woff2') format('woff2'),
+        url('NeoSansItalicTR.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans  TR';
+    src: url('NeoSansBlackItalicTR.woff2') format('woff2'),
+        url('NeoSansBlackItalicTR.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans TR';
+    src: url('NeoSansUltraItalicTR.woff2') format('woff2'),
+        url('NeoSansUltraItalicTR.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans  TR';
+    src: url('NeoSansBoldTR.woff2') format('woff2'),
+        url('NeoSansBoldTR.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
